@@ -12,6 +12,7 @@ Web Development: Website creation using WordPress
 Familiarity with Microsoft Word & PowerPoint
 
 🛠️ Technical Skills
+
 Advanced Excel Analysis:
 
 Pivot Tables
