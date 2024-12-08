@@ -6,7 +6,9 @@ I am a skilled and detail-oriented Data Analyst with experience utilizing data a
 
 Bachelor's Degree in Electronics Systems Software Engineering
 University of Science and Technology
+
 📚 Relevant Skills & Learning
+
 🖥️ Programming & Tools
 Programming Languages: C, C++, Java, C#
 Tools & Technologies: MATLAB, Arduino
@@ -27,8 +29,8 @@ _Filters & Sorts
 _Goal Seek
 _Solver
 _Macros
-_Scenario Manager
-Data Tables
+Scenario Manager
+_Data Tables
 
 Power BI:
 
