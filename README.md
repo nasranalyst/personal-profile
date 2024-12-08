@@ -1,27 +1,49 @@
-Technical Skills:
+✏️ Summary
+I am a skilled and detail-oriented Data Analyst with experience utilizing data analysis tools such as Excel, Power BI, and SQL. I hold a Bachelor's Degree in Electronics Systems Software Engineering from University of Science and Technology, complemented by practical experience gained through an internship at AiVariant and independent data analysis projects. I possess strong problem-solving skills, effective data analysis expertise, and the ability to derive actionable insights to support data-driven decision-making.
 
-•	Data analysis using Advanced Excel
-(Pivot Tables _ Power Pivot
-Power Query _ Function _Conditional
-Formatting_ Data Modeling _Data Validation
-Filter& Sort_ Analyze Data _ Solver _Goal Seek_ Scenario Manager_Data Table_ Macros)
+🎓 Education
+Bachelor's Degree in Electronics Systems Software Engineering
+University of Science and Technology
+📚 Relevant Skills & Learning
+🖥️ Programming & Tools
+Programming Languages: C, C++, Java, C#
+Tools & Technologies: MATLAB, Arduino
+Web Development: Website creation using WordPress
+Familiarity with Microsoft Word & PowerPoint
 
-•	Power BI
-(Power Query_ Data Modeling_ Data
-Visualization_ DAX Language)
-•	PowerPoint
+🛠️ Technical Skills
+Advanced Excel Analysis:
 
-•	SQL
- (SQL Workbench_ SQL Server)
+Pivot Tables
+Power Pivot
+Power Query
+Conditional Formatting
+Data Modeling
+Data Validation
+Filters & Sorts
+Goal Seek
+Solver
+Macros
+Scenario Manager
+Data Tables
+Power BI:
 
-•	Python 
-(Pandas_ NumPy)
+Power Query
+Data Modeling
+Data Visualization
+DAX Language
+SQL:
 
-•	Descriptive Statistics
+SQL Workbench
+SQL Server
+Python:
 
-Personal Skills:
+Pandas
+NumPy
+Descriptive Statistics
 
-•	Critical thinking
-•	Problem-solving
-•	Teamwork
-•	Adaptability
+💡 Personal Skills
+Critical Thinking
+Problem-Solving
+Teamwork
+Adaptability
