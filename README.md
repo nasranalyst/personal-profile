@@ -18,16 +18,16 @@ Familiarity with Microsoft Word & PowerPoint
 Advanced Excel Analysis:
 
 Pivot Tables
-Power Pivot
-Power Query
-Conditional Formatting
-Data Modeling
-Data Validation
-Filters & Sorts
-Goal Seek
-Solver
-Macros
-Scenario Manager
+_Power Pivot
+_Power Query
+_Conditional Formatting
+_Data Modeling
+_Data Validation
+_Filters & Sorts
+_Goal Seek
+_Solver
+_Macros
+_Scenario Manager
 Data Tables
 
 Power BI:
@@ -40,12 +40,12 @@ _DAX Language
 SQL:
 
 SQL Workbench
-SQL Server
+_SQL Server
 
 Python:
 
 Pandas
-NumPy
+_NumPy
 
 Descriptive Statistics
 
