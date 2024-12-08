@@ -33,9 +33,9 @@ Data Tables
 Power BI:
 
 Power Query
-Data Modeling
-Data Visualization
-DAX Language
+_Data Modeling
+_Data Visualization
+_DAX Language
 
 SQL:
 
