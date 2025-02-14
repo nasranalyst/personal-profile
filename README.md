@@ -1,6 +1,6 @@
 ✏️ Summary
 
-I am a skilled and detail-oriented Data Analyst with experience utilizing data analysis tools such as Excel, Power BI, and SQL. I hold a Bachelor's Degree in Electronics Systems Software Engineering from University of Science and Technology, complemented by practical experience gained through an internship at AiVariant and independent data analysis projects. I possess strong problem-solving skills, effective data analysis expertise, and the ability to derive actionable insights to support data-driven decision-making.
+  data-driven decision-making. I hold a Bachelor's Degree in Electronics Systems Software Engineering from the University of Science and Technology. My experience includes an internship at AiVariant, where I analyzed diverse datasets and prepared actionable insights. I have also developed strong skills in financial statement analysis, financial ratios, trend analysis, and horizontal analysis, which enhance my ability to deliver accurate and insightful business recommendations.
 
 🎓 Education
 
