@@ -1,19 +1,29 @@
 ✏️ Summary
 
-  data-driven decision-making. I hold a Bachelor's Degree in Electronics Systems Software Engineering from the University of Science and Technology. My experience includes an internship at AiVariant, where I analyzed diverse datasets and prepared actionable insights. I have also developed strong skills in financial statement analysis, financial ratios, trend analysis, and horizontal analysis, which enhance my ability to deliver accurate and insightful business recommendations.
+  🔹 Data Analyst
+Transforming Data into Strategic Insights to Enhance Performance & Decision-Making
+A professional Data Analyst with extensive experience in data analysis, interactive reporting, and dynamic dashboard development using Excel,
+Power BI, and SQL. Possesses strong skills in process automation and trend analysis to support decision-making and improve business efficiency.
+Holds a Bachelor’s degree in Software Engineering for Electronic Systems, with hands-on knowledge of Python (Pandas, NumPy) and descriptive
+statistics, enabling efficient data cleaning, processing, and extracting valuable insights to drive growth and optimize operational processes.
+Passionate about uncovering hidden patterns, delivering data-driven solutions, and developing effective strategies based on in-depth analysis,
+contributing to achieving companies’ strategic goals.
 
 Experience
 
 Data Analyst Intern – AiVariant (05/2024 – 02/2025)
 
-Data Analysis: Conducted in-depth analysis of diverse datasets using advanced Excel functions, Power BI, and SQL queries.
-Reporting: Prepared detailed, comprehensive reports that provided actionable insights, supporting strategic decision-making at multiple levels.
-Collaboration: Worked closely with cross-functional teams to resolve complex data-related challenges, ensuring data quality and consistency.
-Visualization: Created dynamic dashboards using Power BI to monitor KPIs and business metrics.
-Automation: Implemented data cleaning and transformation workflows using Power Query, improving the efficiency of the data pipeline.
-Financial Analysis: Applied financial statement analysis and ratio analysis to assess company performance and support financial decision-making.
-Trend Analysis: Conducted trend and horizontal analyses to identify business opportunities and risks
-
+Data Analysis and Insights for Strategic Decision-Making
+Conducted in-depth data analysis on large and diverse datasets using Excel, Power BI, SQL, and Tableau, enhancing efficiency and
+accuracy in decision-making processes.
+Developed detailed analytical reports and interactive dashboards, providing actionable insights that directly contributed to strategic
+decision-making and performance optimization.
+Successfully led and contributed to 6 data-driven projects, resulting in measurable improvements in operational processes and
+efficiency.
+Collaborated with cross-functional teams (including Business Analysis and Operations) to identify and resolve data-related challenges,
+ensuring smooth and data-driven decision-making.
+Automated reporting processes, reducing manual effort and improving reporting efficiency by 25%.
+Delivered data-driven solutions that improved key performance metrics, directly enhancing team decision-making capabilities.
 🎓 Education
 
 Bachelor's Degree in Electronics Systems Software Engineering
